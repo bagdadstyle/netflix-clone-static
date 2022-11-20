@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("https://i.pinimg.com/originals/42/1b/b0/421bb09eb9ddccba2eeb994bd8310cdf.jpg") no-repeat center center fixed;
+
+}
+
+.hero img{
+    object-fit: cover;
+    width: 250px;
+    height: 170px;
+}
+/* .image1{
+    background-image: url(https://i.pinimg.com/originals/42/1b/b0/421bb09eb9ddccba2eeb994bd8310cdf.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    width: 300px;
+    height: 150px;
+    object-fit: cover;
+} */
